@@ -1,0 +1,4 @@
+[build]
+  command = "npm run build"  # Replace with your build script
+  functions = "functions"    # If you have serverless functions
+  publish = "public"         # Replace with your publish directory
